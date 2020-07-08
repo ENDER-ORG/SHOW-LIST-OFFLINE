@@ -19,3 +19,5 @@ NOTE: It doesn't have a database so the titles won't be checked for validity.
 
 
 DON'T CHANGE ANYTHING IN THE LIST TEXT FILE!!!!
+
+#UPDATE 1-- ADDED MAL SYNC!!!!
