@@ -1,4 +1,5 @@
 # ANIME-LIST-OFFLINE
+# UPDATE : DON'T EXPECT ANYTHING.I won't be finishing this anymore
 A command line program to store your anime  or any show list offline. 
 
 
