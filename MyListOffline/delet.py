@@ -30,7 +30,7 @@ def delp(x):
            print()
            no=no.upper()
            if(no=='Y'):
-             del(lavana[0][0])
+             del(x[lavana[0][1]])
              time.sleep(0.23)
              print('DELETED!!!!')      
              K=0
