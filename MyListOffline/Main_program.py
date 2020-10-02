@@ -432,8 +432,8 @@ def com():
       else:
        MOe=len(t)
        kok=0
-       if(len(t)>21):
-          t=t[:-(MOe-21)]
+       if(len(t)>49):
+          t=t[:-(MOe-49)]
        
        spac2()
        if dab==1:
