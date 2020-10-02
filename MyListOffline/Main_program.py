@@ -134,7 +134,7 @@ def datte(a=1,b="",Z=0):
 
               else:
                   hey = 1
-                  print("ENTER NUMBERS AND CORRECT FORMAT ONLY!!!!!!!!")
+                  print("ENTER NUMBERS AND CORRECT FORMAT ONLY!!")
                   spac()
                   break
               k += 1
@@ -148,7 +148,7 @@ def datte(a=1,b="",Z=0):
                      spac()
 
                  elif dattte <datetime.date(1900,12,31):
-                     print("PLEASE ENTER A VALID DATE!!!!!")
+                     print("PLEASE ENTER A VALID DATE!!")
                      spac()
 
                  elif a==0 and Z!=1 and b>dattte:
@@ -161,11 +161,11 @@ def datte(a=1,b="",Z=0):
                     
               except Exception as er:
                    if str(er) =="month must be in 1..12":
-                                   print("ERROR:MONTH MUST BE BETWEEN 1-12|[IT CAN'T BE-", datu[5:7],"]|!!!!")
+                                   print("ERROR:MONTH MUST BE BETWEEN 1-12|[IT CAN'T BE-", datu[5:7],"]|!!")
                                    spac()
 
                    elif str(er) =="day is out of range for month":
-                                  print("ERROR:THE DAY IS OUT OF RANGE FOR MONTH!!!!!")
+                                  print("ERROR:THE DAY IS OUT OF RANGE FOR MONTH!!")
                                   spac()
                    else:
                        print("UNEXPECTED ERROR :",er)
@@ -352,12 +352,12 @@ def passcheck():
     
         elif k=="unexpected error 2":
                   return "unexpected error 2"
-        print("INCORRECT PASSWORD!!!!!!!!!!!ENTER AGAIN")
+        print("INCORRECT PASSWORD!!ENTER AGAIN")
         spac2()
         
         h+=1
         if h>3:
-            print("YOU HAVE ENTERED THE WRONG PASSWORD TOO MANY TIMES!!!!!!!!TRY AGAIN LATER")
+            print("YOU HAVE ENTERED THE WRONG PASSWORD TOO MANY TIMES!!TRY AGAIN LATER")
             spac2()
             return "q"
         
@@ -750,7 +750,7 @@ def com():
                          del(nam[lop])
                          mlp=len(nam)
                       spac3()
-                      print('DONE')
+                      print('LIST DELETED!!')
                       spac2()
                       kpop=0
                     elif(lope=='N'):
@@ -787,7 +787,7 @@ def com():
                  spac3()
              else:
                  
-                 linecrr("=",1,2,'PLEASE CHOOSE FROM THE OPTIONS ONLY!!!!')
+                 linecrr("=",1,2,'PLEASE CHOOSE FROM THE OPTIONS ONLY!!')
                  linecrr('-')
            
     elif x=="5":
@@ -806,7 +806,7 @@ def com():
              spac2()
              endresult=malsyncup(malxmlfile,nam)
              if endresult is None:
-                  print("MAL SYNC COMPLETE!!!!!!!!")
+                  print("MAL SYNC COMPLETE!!")
                   R=0
                   filecreatorwriter(1, nam)
                   endin(3)
@@ -815,7 +815,7 @@ def com():
               
              
          else:
-             print("THE FILE DOES NOT EXIST!!!!!!!!!!!PLEASE TRY AGAIN    \n\nNote :make sure the mal xml file name is correct and is in the same directory as this program i.e", os.path.dirname(__file__))
+             print("THE FILE DOES NOT EXIST!!PLEASE TRY AGAIN    \n\nNote :make sure the mal xml file name is correct and is in the same directory as this program i.e", os.path.dirname(__file__))
              spac2()
          
          
@@ -894,7 +894,7 @@ while True:
                    break
                spac2()
                if off=="":
-                   print("EMPTY FIELD!!!!!!!!PLEASE ENTER AGAIN") 
+                   print("EMPTY FIELD!!PLEASE ENTER AGAIN") 
                    spac2() 
                    continue
                
@@ -918,7 +918,7 @@ while True:
                                     jak=endin(2)
                                     break
                             if yop=="":
-                                print("EMPTY FIELD!!!!!!!!!!PLEASE ENTER AGAIN")
+                                print("EMPTY FIELD!!PLEASE ENTER AGAIN")
                                 spac2()
                             opp=0
                             for uuh in yop:
