@@ -16,6 +16,6 @@ Only purpose is to store a list and manage it offline.
 
 ### Support or Contact
 
-For Issues- [Here](https://github.com/ENDER-ORG/ANIME-LIST-OFFLINE/issues)
+For Issues- [:D](https://github.com/ENDER-ORG/ANIME-LIST-OFFLINE/issues)
 
 Only available on github.
