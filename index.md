@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to ENDER-ORG[ANIME LIST OFFLINE]
 
-You can use the [editor on GitHub](https://github.com/MURAORG/ANIME-LIST-OFFLINE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### PURPOSE -
+Only purpose it to store a list and mangage it offline.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###FEATURES -
+1.Mal Sync
 
-```markdown
-Syntax highlighted code block
+2.Manageable offline
 
-# Header 1
-## Header 2
-### Header 3
+3.Can be easily viewed
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+4.Only requires python
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MURAORG/ANIME-LIST-OFFLINE/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For Issues- [Here](https://github.com/ENDER-ORG/ANIME-LIST-OFFLINE/issues)
+
+Only available on github.
