@@ -2,7 +2,7 @@
 
 
 ### PURPOSE -
-Only purpose is to store a list and mangage it offline.
+Only purpose is to store a list and manage it offline.
 
 
 ### FEATURES -
