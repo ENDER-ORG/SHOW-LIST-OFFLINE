@@ -1,6 +1,6 @@
 # ANIME-LIST-OFFLINE
 # Note : Main_Programe.py is the main file
-#Note- There won't be anymore updates to this..
+### Note- There won't be anymore updates to this..
 
 
 A command line program to store your anime  or any show list offline. 
