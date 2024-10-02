@@ -1,13 +1,13 @@
-# ANIME-LIST-OFFLINE
+# SHOW-LIST-OFFLINE
 # Note : Main_Programe.py is the main file
 ## Note- There won't be anymore updates to this..
 
 
-A command line program to store your anime  or any show list offline. 
+A command line program to store your show list offline. 
 
 
 
-It doesn't have a database so the titles won't be checked for validity. 
+It doesn't have a series database for reference so the titles won't be checked for validity. 
 
 ### EXTRA-INFO
 
@@ -21,6 +21,6 @@ It doesn't have a database so the titles won't be checked for validity.
 3)The date format is YYYY-MM-DD
 
 ### NOT-TO-DO:
-DON'T CHANGE ANYTHING IN THE LIST TEXT FILE!!!!
+DON'T CHANGE ANYTHING IN THE LIST TEXT FILE!!
 
-## UPDATE 1-- ADDED MAL SYNC!!!!
+## UPDATE 1-- ADDED SYNC FEATURE!!
